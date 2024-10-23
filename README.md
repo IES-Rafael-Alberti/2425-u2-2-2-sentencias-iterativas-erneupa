@@ -8,25 +8,25 @@ Apoyate en los siguientes recursos para realizar la práctica:
 
 ---
 
-# Título de la Actividad
+# Práctica 2.2: Sentencias iterativas y saltos
 
 ## Identificación de la Actividad
-- **ID de la Actividad:** [ID de la actividad]
-- **Módulo:** [Nombre del módulo] (`PROG`, `IS`, `EDES`, etc.)
-- **Unidad de Trabajo:** [Número y nombre de la unidad de trabajo]
-- **Fecha de Creación:** [Fecha de creación]
-- **Fecha de Entrega:** [Fecha de entrega]
+- **ID de la Actividad:** [P2.2 - Ejercicios]
+- **Módulo:** [PROG]
+- **Unidad de Trabajo:** [U2 Práctica 2.2: Sentencias iterativas y saltos]
+- **Fecha de Creación:** [21/10/2024]
+- **Fecha de Entrega:** [23/10/2024]
 - **Alumno(s):** 
-  - **Nombre y Apellidos:** [Nombre y Apellidos del alumno o integrantes del grupo]
-  - **Correo electrónico:** [Correo electrónico g.educaand.es]
-  - **Iniciales del Alumno/Grupo:** [Iniciales del alumno o del grupo]
+  - **Nombre y Apellidos:** [Aarón Neupaver Montiel]
+  - **Correo electrónico:** [aneumon2402@g.educaand.es]
+  - **Iniciales del Alumno/Grupo:** [ANM]
 
 ## Descripción de la Actividad
-[Descripción detallada de la actividad, objetivos, y contexto necesario para comprenderla. Explicar en qué consiste la actividad y qué se espera que el alumno desarrolle o implemente.]
+Programas en python, sentencias iterativas.
 
 ## Instrucciones de Compilación y Ejecución
 1. **Requisitos Previos:**
-   - [Lenguaje de programación y versión]
+   - [python]
    - [Entorno de desarrollo o dependencias necesarias]
 
 2. **Pasos para Compilar el Código:**
